@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/justbekazu/readme-maker/issues"
   },
-  "homepage": "https://github.com/justbekazu/readme-maker#readme"
+  "homepage": "https://github.com/justbekazu/readme-maker#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
 }
