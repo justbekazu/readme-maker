@@ -1,0 +1,24 @@
+{
+  "name": "kaz",
+  "version": "1.0.0",
+  "description": "readme.md file maker",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justbekazu/readme-maker.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "readme"
+  ],
+  "author": "kaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justbekazu/readme-maker/issues"
+  },
+  "homepage": "https://github.com/justbekazu/readme-maker#readme"
+}
